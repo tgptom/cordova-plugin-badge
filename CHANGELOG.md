@@ -1,5 +1,8 @@
 ## ChangeLog
 
+#### Version 0.8.9 (29.12.2022)
+- Fix iOS detection
+
 #### Version 0.8.8 (19.11.2018)
 - Upgrade ShortcutBadger to v1.1.22
 
